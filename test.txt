@@ -8,3 +8,6 @@ GitHub has a mascot called Octocat, a cat with five tentacles and a human-like f
 Development of the GitHub platform began on 1 October 2007.[10][11] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett after it had been made available for a few months prior as a beta release.[12]
 
 Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. Multiple desktop clients and Git plugins have also been created by GitHub and other third parties that integrate with the platform.
+
+
+edited on July 27, 2017
